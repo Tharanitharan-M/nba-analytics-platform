@@ -1,0 +1,76 @@
+# NBA Analytics Platform - Git Ignore File
+
+# Backend - Java/Maven
+backend/target/
+backend/.mvn/
+backend/mvnw
+backend/mvnw.cmd
+backend/.idea/
+backend/*.iml
+backend/*.iws
+backend/*.ipr
+backend/.classpath
+backend/.project
+backend/.settings/
+backend/bin/
+
+# Frontend - React/Node
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/.vite/
+frontend/.env
+frontend/.env.local
+frontend/.env.production
+frontend/.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Database
+*.sqlite
+*.db
+
+# Logs
+*.log
+logs/
+backend/logs/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# Build artifacts
+*.jar
+!backend/.mvn/wrapper/maven-wrapper.jar
+
+# Package Files
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Test coverage
+coverage/
+*.lcov
+
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
