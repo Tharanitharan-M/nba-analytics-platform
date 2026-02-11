@@ -157,22 +157,7 @@ Through this project, I developed expertise in:
 - Modern React development with hooks and functional components
 - Full-stack integration and deployment workflows
 
-## Future Enhancements
-
-- [ ] Deploy to AWS (EC2/RDS) with CI/CD pipeline
-- [ ] Add real-time data updates via WebSocket
-- [ ] Implement Redis caching layer
-- [ ] Add comprehensive unit/integration tests
-- [ ] Create admin dashboard for user management
 
 ## Data Source
 
 Dataset: [Kaggle Basketball Dataset](https://www.kaggle.com/datasets/wyattowalsh/basketball) (65K+ games, 1946-present)
-
----
-
-**Author**: [Your Name] | Graduate Student, [University Name]  
-**Contact**: [your.email@university.edu] | [LinkedIn](your-linkedin) | [Portfolio](your-website)  
-**Program**: [e.g., MS in Computer Science, 2024-2026]
-
-_This project demonstrates practical application of software engineering principles learned in graduate coursework, including Advanced Database Systems, Web Technologies, and Software Architecture._
