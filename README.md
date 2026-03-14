@@ -11,8 +11,6 @@
 
 An NBA analytics platform that processes and visualizes historical basketball data spanning 1946-present. The application handles **65,000+ games**, **4,800+ players**, and **13M+ play-by-play records** through a robust ETL pipeline and RESTful API architecture.
 
-**Live Demo**: [Add your deployment link] | **Video Walkthrough**: [Add demo video]
-
 ## Key Technical Achievements
 
 ### Data Engineering
@@ -80,7 +78,7 @@ Java 17+, Node.js 18+, PostgreSQL 14+, Maven 3.8+
 
 ```bash
 # Clone repository
-git clone <repository-url>
+git clone https://github.com/Tharanitharan-M/nba-analytics-platform
 cd nba-analytics-platform
 
 # Setup database
